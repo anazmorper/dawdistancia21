@@ -21,7 +21,7 @@ function comprueba_caracteres_max($variable, $max){
  * @return Devolverá la suma de las variables anteriores
  */
 function suma($a, $b){
-   
+    echo "Método suma";
     return $a + $b;
 }
 ?>
